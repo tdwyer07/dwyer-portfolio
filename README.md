@@ -2,10 +2,10 @@
 This is my portfolio for the Telling Stories with Data class at CMU
 
 # About me
-My name is Tim Dwyer. I am a part time Master of Science in Information Technology (MSIT) student majoring in Business Intelligence and Data Analytics (BIDA) at Carnegie Mellon University's Heinz College. I am a business analytics manager in Retail Lending at PNC Bank. Once I graduate, I plan on leveraging the skills I have learned at PNC.
+My name is Tim Dwyer. I am a part time Master of Science in Information Technology (MSIT) student majoring in Business Intelligence and Data Analytics (BIDA) at Carnegie Mellon University's Heinz College. I graduated from Penn State in 2013 with a degree in Mathematics. Directly after graduation, I joined PNC as an analyst, and have worked at PNC for the past 6 years. Currently, I am a Business Analytics Senior Manager in Retail Lending. Once I graduate with my masters, I plan on leveraging the skills I have learned at PNC to solve problems more effecient and creatively.
 
 # What I hope to learn
-I hope to learn how to create data visualizations, which are easy to understand multiple different audiences leveraging new programs and tools. I also hope to learn the best practices for good data visualizations and how to combine many complex visualizations to tell one unified story.
+In this course, I hope to learn how to create better data visualizations. Often at work, my team creates presentations with data graphs, tables, and charts that are communicated to multiple levels of the organization. I find it difficult to leverage one presentation to explain a single story to different audiences. I am hopeful that this course will help me tell these stories better. I am also excited to learn new programs and tools to create data visualizations.
 
 # Portfolio
 
