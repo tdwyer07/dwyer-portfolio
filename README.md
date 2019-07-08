@@ -1,5 +1,5 @@
 # dwyer-portfolio
-This is my portfolio for the Telling Stories with Data class at CMU
+This is my portfolio for the Telling Stories with Data class at CMU.
 
 # About me
 My name is Tim Dwyer. I am a part time Master of Science in Information Technology (MSIT) student majoring in Business Intelligence and Data Analytics (BIDA) at Carnegie Mellon University's Heinz College. I graduated from Penn State in 2013 with a degree in Mathematics. Directly after graduation, I joined PNC as an analyst, and have worked at PNC for the past 6 years. Currently, I am a Business Analytics Senior Manager in Retail Lending. Once I graduate with my masters, I plan on leveraging the skills I have learned at PNC to solve problems more effecient and creatively.
