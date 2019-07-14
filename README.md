@@ -14,3 +14,13 @@ In this course, I hope to learn how to create better data visualizations. Often 
 
 Source of original article: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
 
+
+## Data Visualization Critique #2
+
+For the second critique assignement in this class, I decided to evaluate a visualization on blockchain usecases in the financial institution sector. This is an area of interest for me since I work for a bank and have studied blockchain in a class at CMU. I found the graph easy to read and understand. However, I thought it would have been improved by adding horizontal gridlines, having the bars be the same color, and having the percents add to 100% instead of 200%. In the graph below, I decided to use the same data, but leverage a donut graph instead of a bar graph. I thought it would better represent the percent results. I also divided all of the data by two to make the graph a bit easier to interpret, and changed the title and chart description to be shorter and more direct. I believe these changes improve the interpretation of data. 
+
+<iframe title="Top Use Cases for Blockchain" aria-label="Interactive donut chart" id="datawrapper-chart-tgtis" src="//datawrapper.dwcdn.net/tgtis/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="457"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+Source of the original article: "BLOCKCHAIN IN BANKING: An inside look at four banks' early blockchain successes and failures." Business Insider, June 17, 2019. https://www.businessinsider.com/the-blockchain-in-banking-report-2019-6
+
+
