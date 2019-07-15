@@ -24,3 +24,9 @@ For the second critique assignement in this class, I decided to evaluate a visua
 Source of the original article: "BLOCKCHAIN IN BANKING: An inside look at four banks' early blockchain successes and failures." Business Insider, June 17, 2019. https://www.businessinsider.com/the-blockchain-in-banking-report-2019-6
 
 
+
+## OIG data visualization #1
+
+<div class="infogram-embed" data-id="77a79c0f-412e-4ef7-81b3-5e868d062a84" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/77a79c0f-412e-4ef7-81b3-5e868d062a84" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
