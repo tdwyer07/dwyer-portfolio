@@ -42,9 +42,15 @@ For the journalists section of the assignment, my audience was for a national ne
 The differences between the 2 sections of the assignment are based on the different audiences. As an analyst, I wanted to concentrate on the facts and the root causes of the problems. I achieved this through showing the increase in the apprehensions of the border control and the ICE occupied beds being greater than the funded beds. As a journalist, I wanted to pull in the more emotional facts by concentrating on the high number of people and childred being held outside the regular goals for the border control.
 
 
-## OECD data visualization #2
+## OECD Data Visualization #2
 
 ### Part 1: Working with web-based visualization tools
 
+In this part of the assignment, I followed the instructions from canvas to embed interactive visualizations. I choose to highlight Mexico, Canada, and the United States.
+
 <iframe src="https://data.oecd.org/chart/5CDw" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CDw" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
+
+### Part 2: Working with RAW
+
 
