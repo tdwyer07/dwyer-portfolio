@@ -84,3 +84,66 @@ compare and contrast the different methods. add chart titles
 
 In this assignment, I leveraged two methods. The first was leveraging a web based visualization tool. Specifically, the OECD website tool was used to create a bar chart with highlighted bars. This was the much simplier technique of the two since all you had to do was click which bars you wanted to highlight. However, it had much less custom choices.  The other technique was using rawgraphs. The main advantage was the ability to customize many elements of the chart, but it is definitley a more complicated tool.
 
+
+
+## Choosing Chart Types - Week Three (Discussion/Workbook)
+My thoughts on some of the questions are below. I also created one of my sketches in infographic.
+
+#### Page 86:
+Question 1:
+Bar – F
+Unit – A
+Slope – C
+Scatter plot – D
+Line – C
+2 * 2 Matrix – E
+Dot plot – F
+Question 2:
+Components make up the total at any given point
+Totals change over time
+Shifting proportions
+Question 3:
+I would not change the chart type, because you only have a short amount of time to present to very senior leaders. I would recommend staying with what they know, so you can spend time addressing highlights you want to share and answer any questions they have.
+Question 4:
+I would be less inclined to change graph A (Russia’s Economic Performance Linked to Oil Prices) into a slope graph. This is because the graph is calling out specific events that led to increases and decreases. If you remove the curves of the graph, I do not think it would portray the same story.
+Question 5:
+Correlation
+Higher proportion
+Outliers vs. cluster
+Question 6:
+We usually use charts that have the most senior manager at the top in a box with lines connecting down to their direct reports and so on. The boxes would contain all of the needed information like names, locations, and departments
+Question 7:
+I would use chart B for this visualization
+Question 8:
+I would probably use a bar chart since it will easily show the comparison
+Question 9:
+I would use a scatter plot with speed and strength on each access.
+Question 10:
+I would use a table in this case showing how rare it is
+
+#### Page 96
+
+Question 1: Total Number of contacts; how much of total; shares that make up the whole...over time
+
+Question 2: How much of total activity is digital overtime; comparing...two categories
+
+Question 3: snapshots; mix is changing; two years ago;this year; proportions are changing
+
+Question 4: snapshot; digital vs. non-digital; year over year; growing as a total share
+
+Question 5: trendline; seasonal spikes; simplier view into trend
+
+Question 6: different trend then digital vs. nondigital; rise of virtual agents against phone contracts.
+
+#### Page 122
+
+Question 2 sketch:
+
+<div class="infogram-embed" data-id="40072fdf-3cd8-4464-b47a-3320a5435433" data-type="interactive" data-title="Untitled infographic"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/40072fdf-3cd8-4464-b47a-3320a5435433" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+I choose to do a scatterplot with Delicate to Smoky on the x-axis and Light to Rich on the y-axis, and the regions as colors. This visualization creates an easy way to visualize the differences in the taste profiles by region. I choose colors that are distinct enough to stand out from each other. The Islay Whiskeys appear to be more Smoky, and the Speyside Whiskeys seem to be more Rich.
+
+Source of original data from: exercises on page 122 of the Good Charts Work Book by Scott Berinato.
+
+Chart created in: infogram.com
