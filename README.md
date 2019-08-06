@@ -147,3 +147,24 @@ I choose to do a scatterplot with Delicate to Smoky on the x-axis and Light to R
 Source of original data from: exercises on page 122 of the Good Charts Work Book by Scott Berinato.
 
 Chart created in: infogram.com
+
+
+##Final Project - 
+
+### Part 1 - Project Proposal
+
+[Click here to see my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
+
+### Part 2 - Wireframes, Storyboards, Moodboards and User Research
+
+[Click here to see part #2 of my final project](https://tdwyer07.github.io/Final-Project-Part-2/)
+
+
+### Part 3 - Final Project
+
+[Click here to see part #3 of my final project](https://preview.shorthand.com/GnEWBRWhkSoFPicX#group-section-b5UMCgN6Di)
+
+### Part 4 - Final Presentation (smaller version of Final Project)
+
+[Click here to see part #4 of my final project](https://preview.shorthand.com/2FMKCKgkkYjbKwBu)
+
