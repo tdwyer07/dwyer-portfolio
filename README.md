@@ -166,9 +166,11 @@ Chart created in: infogram.com
 
 ### Part 3 - Final Project
 
-[Click here to see part #3 of my final project](https://preview.shorthand.com/GnEWBRWhkSoFPicX#group-section-b5UMCgN6Di)
+[Click here to see part #3 of my final project](https://github.com/tdwyer07/Final_Project)
+
+[Click here to see part #3 of my final project story in shorthand](https://preview.shorthand.com/GnEWBRWhkSoFPicX#group-section-b5UMCgN6Di)
 
 ### Part 4 - Final Presentation (smaller version of Final Project)
 
-[Click here to see part #4 of my final project](https://preview.shorthand.com/2FMKCKgkkYjbKwBu)
+[Click here to see part #4 of my final project presentation in shorthand](https://preview.shorthand.com/2FMKCKgkkYjbKwBu)
 
