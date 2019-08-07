@@ -149,11 +149,15 @@ Source of original data from: exercises on page 122 of the Good Charts Work Book
 Chart created in: infogram.com
 
 
-##Final Project - 
+##Final Project - Income Causes Food Insecurity 
+
+### Final Submission Pulling in all of the Different Parts
+
+[Click here to see my overall final project](https://tdwyer07.github.io/Final_Project/)
 
 ### Part 1 - Project Proposal
 
-[Click here to see my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
+[Click here to see part #1 my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
 
 ### Part 2 - Wireframes, Storyboards, Moodboards and User Research
 
