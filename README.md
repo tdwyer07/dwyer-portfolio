@@ -149,7 +149,7 @@ Source of original data from: exercises on page 122 of the Good Charts Work Book
 Chart created in: infogram.com
 
 
-##Final Project - Income Causes Food Insecurity 
+## Final Project - Low Income Causes Food Insecurity 
 
 ### Final Submission Pulling in all of the Different Parts
 
